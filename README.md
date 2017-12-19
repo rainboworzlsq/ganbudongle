@@ -22,6 +22,7 @@ https://github.com/organizations/rainbowTableForMd5Cracker/invite
 
 已经有的类及其方法说明
 需要
+
 	class src{
 	        public:
 	                int length; //原串长度
@@ -45,6 +46,7 @@ https://github.com/organizations/rainbowTableForMd5Cracker/invite
  
 
 已经使用的全局变量（意味着你们命名应该避开）
+
 	string std_length_str[max_length+1];//这个无需理会
 	CMessageDigestAlgorithm5 Md5_productor;//这个是一个Md5生成器
 	//Md5_productor（string）即可返回该string的md5串
